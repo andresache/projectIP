@@ -1,6 +1,7 @@
 # projectIP
 
-Create a client/server program, using C language under Linux CentOS which implements the following tasks: 
+Create a client/server program, using C language under Linux CentOS which implements the following tasks:
+
   a) Stream socket-based communication in IPv4 with the program ClientIPv4_win_2021.exe. Linux
      server will wait the clients requests at port 22GSE, where G=group’s number, S=semigroup’s
      number, E=team’s number. The IPv4 client should connect to all assigned addresses of the IPv4
